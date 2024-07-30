@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamali1331
-- 👀 I’m interested in singing,dance,etc.
-- 🌱 I’m currently purusing Data science course
+- 👀 I’m interested to learn new advanced technology
+- 🌱 I’m currently purusing Data science course in online platform 
 - 💞️ I’m looking to collaborate on my work should perfect
       I want explore new innovate things to people 
 - 📫 I want Achieve more in my life
