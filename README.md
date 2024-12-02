@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **kamalisridhar27@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGXrEhTspE/M5-fsv7PPZkdsP](https://www.canva.com/design/DAGXrEhTspE/M5-fsv7PPZkdsP)
+- 📄 Know about my experiences file:///C:/Users/kamal/Downloads/kamali%202024%20latest.pdf
 
 - ⚡ Fun fact **I think I am fun games , explore new things and share to all**
 
