@@ -1,7 +1,7 @@
 ![kamali new banner ](https://github.com/user-attachments/assets/28410b17-d3b3-477f-9fad-9603905d4100)
 
 # 💫 About Me:
-I'm currently working on Power-BI projects <br>I'm currently learning machine learning. AWS, Foundations of AI and Postman API<br>I'm colloberation doing internships , Researcher <br>I'm need help landing a good job<br>Fun fact listen music , entertainment and play games
+I'm currently working on Power-BI projects and Researcher <br>I'm currently learning  AWS, Foundations of AI and Postman API<br>I'm colloberation doing internships , Job opportunites  <br>I'm need help landing a good job<br>Fun fact listen music , entertainment and play games
 
 
 ## 🌐 Socials:
@@ -27,7 +27,7 @@ I'm currently working on Power-BI projects <br>I'm currently learning machine le
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kamali1331) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
