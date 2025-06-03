@@ -1,5 +1,5 @@
 ![kamali new banner ](https://github.com/user-attachments/assets/28410b17-d3b3-477f-9fad-9603905d4100)
-https://dribbble.com/shots/17188530-Female-working-on-a-computer-Animation-explainer-video
+![kamali working gif](https://dribbble.com/shots/17188530-Female-working-on-a-computer-Animation-explainer-video)
 
 # 💫 About Me:
 I'm currently working on Power-BI projects and Researcher <br>I'm currently learning  AWS, Foundations of AI and Postman API<br>I'm colloberation doing internships , Job opportunites  <br>I'm need help landing a good job<br>Fun fact listen music , entertainment and play games
