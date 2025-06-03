@@ -1,5 +1,6 @@
 ![kamali new banner ](https://github.com/user-attachments/assets/28410b17-d3b3-477f-9fad-9603905d4100)
-![kamali working gif ](https://www.google.com/imgres?imgurl=https://cdn.dribbble.com/userupload/34835514/file/original-30c5dcf2925bccabe64a7a7fb6bdcfe3.gif&tbnid=KYd6NhDPAypBVM&vet=1&imgrefurl=https://dribbble.com/shots/17188530-Female-working-on-a-computer-Animation-explainer-video&docid=M7nbdRojXA2v4M&w=800&h=600&source=sh/x/im/m1/1&kgs=f6ad125b8b0980bf)
+![kamali new working image ](https://images.app.goo.gl/pYu5hFno4YbPs6Zz7)
+
 # 💫 About Me:
 I'm currently working on Power-BI projects and Researcher <br>I'm currently learning  AWS, Foundations of AI and Postman API<br>I'm colloberation doing internships , Job opportunites  <br>I'm need help landing a good job<br>Fun fact listen music , entertainment and play games
 
