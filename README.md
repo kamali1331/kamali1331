@@ -3,9 +3,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<h5 align="left"># Hi 👋 I'm Kamali  <br><br>
-### Data Analyst | Data Science Enthusiast | GenAI Explorer</h5>
+<p align="left"># Hi 👋 I'm Kamali  <br><br>
+### Data Analyst | Data Science Enthusiast | GenAI Explorer</p>
 
 ###
 
